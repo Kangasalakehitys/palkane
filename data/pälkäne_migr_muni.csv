@@ -1,4 +1,5 @@
 "source","target","value"
+<<<<<<< HEAD
 "Pälkäne","Hämeenlinna",4
 "Pälkäne","Kangasala",3
 "Pälkäne","Kokkola",1
@@ -21,3 +22,27 @@
 "Tampere","Pälkäne",7
 "Turku","Pälkäne",1
 "Varkaus","Pälkäne",1
+=======
+"Pälkäne","Espoo",1
+"Pälkäne","Helsinki",1
+"Pälkäne","Hyvinkää",1
+"Pälkäne","Hämeenlinna",1
+"Pälkäne","Joensuu",2
+"Pälkäne","Kangasala",8
+"Pälkäne","Kotka",1
+"Pälkäne","Lempäälä",1
+"Pälkäne","Loviisa",1
+"Pälkäne","Naantali",1
+"Pälkäne","Rovaniemi",1
+"Pälkäne","Tampere",15
+"Pälkäne","Tornio",5
+"Pälkäne","Turku",1
+"Pälkäne","Valkeakoski",1
+"Akaa","Pälkäne",1
+"Hämeenlinna","Pälkäne",5
+"Kangasala","Pälkäne",4
+"Porvoo","Pälkäne",1
+"Tampere","Pälkäne",2
+"Turku","Pälkäne",1
+"Valkeakoski","Pälkäne",1
+>>>>>>> 773d2925835c27c99500ee1c193565d7df083bf1
